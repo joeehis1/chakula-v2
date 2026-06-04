@@ -6,7 +6,7 @@ An AI powered recipe generator application that is useful for creating personali
 
 ## Background
 
-This is a rebuild of an earlier project ![Chakula v1](https://github.com/joeehis1/chakula-v1-archive) that bundled AI recipe
+This is a rebuild of an earlier project [Chakula v1](https://github.com/joeehis1/chakula-v1-archive) that bundled AI recipe
 generation with grocery price scraping. In rebuilding, I cut the scraper to
 focus on what the app does well: personalized AI-generated recipes grounded
 in what the user actually has on hand.
